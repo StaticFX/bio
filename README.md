@@ -1,40 +1,23 @@
-    <h1 align="center">Hi im Devin 👋</h1>
-    <h3 align="center">18 year old developer from germany</h3>
-    <h3 align="center">Focused on backend development and integration</h3>
+<h1 align="center">Hi im Devin 👋</h1>
+<h3 align="center">18 year old developer from germany</h3>
+<h3 align="center">Focused on backend development and integration</h3>
 
-    Currently only developing in kotlin and doing the backend for
-    [Monity](https://github.com/MonityChat)
-    <br />
-    Creating a secure and open source chating platform for developers from
-    developers
-    <br />
-    Open to new suggestions and corrections
-    <br />
-    I also work with integrated microcontroller systems such as ESP32 or ARM
-    processors.
-    <br />
-    Currently learning: [Rust](https://www.rust-lang.org/)
-    <br />
-    <h3>Im experienced in:</h3>
-    <br />
-    <a href="https://www.jetbrains.com/idea/" target="_blank">
-      <img
-        src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg"
-        alt="bash"
-        width="35"
-        height="35"
-      />
-    </a>
-    <a href="https://developer.android.com/studio/" target="_blank">
-      <img
-        src="https://img.icons8.com/color/48/000000/android-studio--v3.png"
-        alt="bash"
-        width="35"
-        height="35"
-      />
-    </a>
+Currently only developing in kotlin and doing the backend for [Monity](https://github.com/MonityChat)
+<br />
+Creating a secure and open source chating platform for developers from developers
+<br />
+Open to new suggestions and corrections
+<br />
+I also work with integrated microcontroller systems such as ESP32 or ARM processors.
+<br />
+Currently learning: [Rust](https://www.rust-lang.org/)
+<br />
+<h3>Im experienced in:</h3>
+<br />
+<a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="bash" width="35" height="35" /></a>
+<a href="https://developer.android.com/studio/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" alt="bash" width="35" height="35"/> </a>
 
-    <a href="https://www.java.com" target="_blank">
+<a href="https://www.java.com" target="_blank">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
         width="35"
@@ -64,7 +47,7 @@
     </a>
     <a href="https://www.mysql.com/" target="_blank">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
         width="35"
         height="35"
       />
