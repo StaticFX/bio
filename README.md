@@ -2,6 +2,14 @@
 <h3 align="center">18 year old developer from germany</h3>
 <h3 align="center">Focused on backend development and integration</h3>
 
+
+<h2 align="center">Visit my current Project</h3>
+
+      <img
+        src="https://monitychat.de/api/assets/images/monity/logo.png"
+        width="35"
+        height="35"/>
+
 Currently only developing in kotlin and doing the backend for [Monity](https://github.com/MonityChat)
 <br />
 Creating a secure and open source chating platform for developers from developers
