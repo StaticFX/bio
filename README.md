@@ -4,7 +4,6 @@
 
 
 <h2 align="center">Visit my current Project</h3>
-
       <img
         src="https://monitychat.de/api/assets/images/monity/logo.png"
         width="35"
