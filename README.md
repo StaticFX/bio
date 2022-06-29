@@ -6,8 +6,8 @@
 <h2 align="center">Visit my current Project</h3>
       <img
         src="https://monitychat.de/api/assets/images/monity/logo.png"
-        width="1304"
-        height="1853"/>
+        width="1853"
+        height="1304"/>
 
 Currently only developing in kotlin and doing the backend for [Monity](https://github.com/MonityChat)
 <br />
