@@ -3,12 +3,15 @@
 <h3 align="center">Focused on backend development and integration</h3>
 
 
-<h2 align="center">Visit my current Project</h3>
+<h2 align="center">Visit my current Project</h2>
+<p align="center">
       <img
-        src="https://monitychat.de/api/assets/images/monity/logo.png"
-        width="463"
-        height="326"
-        align="center"/>
+            src="https://monitychat.de/api/assets/images/monity/logo.png"
+            width="463"
+            height="326"
+      />
+</p>
+
 
 Currently only developing in kotlin and doing the backend for [Monity](https://github.com/MonityChat)
 <br />
