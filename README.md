@@ -91,12 +91,14 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
     />
 <br />
       
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=staticfx&&show_icons=true&theme=vision-friendly-dark&hide_border=true&langs_count=5"/>
-</a>
+<p align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=staticfx&&show_icons=true&theme=vision-friendly-                              dark&hide_border=true&langs_count=5"/>
+      </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img  align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=staticfx&show_icons=true&theme=vision-friendly-                   dark&hide_border=true&langs_count=5&layout=compact"
+      </a>
+</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=staticfx&show_icons=true&theme=vision-friendly-dark&hide_border=true&langs_count=5&layout=compact"
-</a>
 
 
