@@ -8,7 +8,7 @@
         src="https://monitychat.de/api/assets/images/monity/logo.png"
         width="463"
         height="326"
-        align = "center"/>
+        align="center"/>
 
 Currently only developing in kotlin and doing the backend for [Monity](https://github.com/MonityChat)
 <br />
