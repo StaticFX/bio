@@ -90,3 +90,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
       <img src="https://imgs.search.brave.com/xJWzb2kAcqjj4Gsdq1YLIpbsWntH35Ei1LVZMOBQOsg/rs:fit:924:638:1/g:ce/aHR0cHM6Ly9kd2ds/b2dvLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxNy8xMi9H/cmFkbGVfbG9nb18w/MS5wbmc" width="50" height="35"
     />
 
+> ###### _[github-readme-stats](https://github.com/anuraghazra/github-readme-stats.git)_
+
+
