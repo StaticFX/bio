@@ -93,10 +93,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
       
 <p align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=staticfx&&show_icons=true&theme=vision-friendly-                              dark&hide_border=true&langs_count=5"/>
+            <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?                                             username=staticfx&&show_icons=true&radikal&hide_border=true&langs_count=5"/>
       </a>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img  align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonityChat&show_icons=true&theme=vision-friendly-                   dark&hide_border=true&langs_count=5&layout=compact"
+            <img  align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonityChat&show_icons=true&theme=radikal&hide_border=true&langs_count=5&layout=compact"
       </a>
 </p>
 
