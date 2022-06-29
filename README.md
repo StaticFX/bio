@@ -5,11 +5,14 @@
 
 <h2 align="center">Visit my current Project</h2>
 <p align="center">
-      <img
-            src="https://monitychat.de/api/assets/images/monity/logo.png"
-            width="463"
-            height="326"
-      />
+      <a href="https://monitychat.de/" target="_blank">
+            <img
+                  src="https://monitychat.de/api/assets/images/monity/logo.png"
+                  width="463"
+                  height="326"
+            />      
+      </a>
+
 </p>
 
 
