@@ -89,7 +89,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
     <a href="https://gradle.org/" target="_blank">
       <img src="https://imgs.search.brave.com/xJWzb2kAcqjj4Gsdq1YLIpbsWntH35Ei1LVZMOBQOsg/rs:fit:924:638:1/g:ce/aHR0cHM6Ly9kd2ds/b2dvLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxNy8xMi9H/cmFkbGVfbG9nb18w/MS5wbmc" width="50" height="35"
     />
-
+<br />
+      
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=staticfx&&show_icons=true&theme=vision-friendly-dark&hide_border=true&langs_count=5"/>
 </a>
