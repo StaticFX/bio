@@ -7,7 +7,7 @@
 <p align="center">
       <a href="https://github.com/StaticFX/STL-To-GIF" target="_blank">
             <img
-                  src="https://github.com/StaticFX/STL-To-GIF/blob/master/examples/example.gif"
+                  src="https://github.com/StaticFX/3DModels-To-GIF/raw/master/examples/example-eiffel-tower.gif?raw=true"
                   width="463"
                   height="326"
             />      
