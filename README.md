@@ -1,13 +1,13 @@
 <h1 align="center">Hi im Devin 👋</h1>
-<h3 align="center">18 year old developer from germany</h3>
+<h3 align="center">19 year old developer from germany</h3>
 <h3 align="center">Focused on backend development and integration</h3>
 
 
 <h2 align="center">Visit my current Project</h2>
 <p align="center">
-      <a href="https://monitychat.de/" target="_blank">
+      <a href="https://github.com/StaticFX/STL-To-GIF" target="_blank">
             <img
-                  src="https://monitychat.de/api/assets/images/monity/logo.png"
+                  src="https://github.com/StaticFX/STL-To-GIF/blob/master/examples/example.gif"
                   width="463"
                   height="326"
             />      
