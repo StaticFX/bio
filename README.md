@@ -16,9 +16,7 @@
 </p>
 
 
-Currently only developing in kotlin and doing the backend for [Monity](https://github.com/MonityChat)
-<br />
-Creating a secure and open source chating platform for developers from developers
+Currently only developing for ZellerFeld
 <br />
 Open to new suggestions and corrections
 <br />
@@ -84,11 +82,35 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
       <img src="https://cdn.platformio.org/images/platformio-logo.17fdc3bc.png" width="35" height="35"
     /></a>
     <a href="https://maven.apache.org/" target="_blank">
-      <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="70" height="35"
+      <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="100" height="35"
     /></a>
     <a href="https://gradle.org/" target="_blank">
       <img src="https://imgs.search.brave.com/xJWzb2kAcqjj4Gsdq1YLIpbsWntH35Ei1LVZMOBQOsg/rs:fit:924:638:1/g:ce/aHR0cHM6Ly9kd2ds/b2dvLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxNy8xMi9H/cmFkbGVfbG9nb18w/MS5wbmc" width="50" height="35"
     />
+  <a href="https://de.wikipedia.org/wiki/JavaScript" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="35" height="35"
+    /></a>
+  <a href="https://www.docker.com/" target="_blank">
+      <img src="https://brandslogos.com/wp-content/uploads/images/large/docker-logo.png" width="35" height="35"
+    /></a>
+  <a href="https://www.jetbrains.com/de-de/phpstorm/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/1024px-PhpStorm_Icon.svg.png" width="35" height="35"
+    /></a>
+  <a href="https://www.php.net/" target="_blank">
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/php-logo-png-transparent.png" width="35" height="35"
+    /></a>
+  <a href="https://laravel.com/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="35" height="35"
+    /></a>
+  <a href="https://www.nginx.com/" target="_blank">
+      <img src="https://www.svgrepo.com/show/373924/nginx.svg" width="35" height="35"
+    /></a>
+  <a href="https://vuejs.org/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" width="35" height="35"
+    /></a>
+  <a href="https://vitejs.dev/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" width="35" height="35"
+    /></a>
 <br />
       
 <p align="center">
