@@ -1,9 +1,9 @@
 <h1 align="center">Hi im Devin 👋</h1>
-<h3 align="center">19 year old developer from germany</h3>
-<h3 align="center">Focused on backend development and integration</h3>
+<h3 align="center">20 year old developer from germany</h3>
+<h3 align="center">Full stack developer currently studying CS</h3>
 
 
-<h2 align="center">Visit my current Project</h2>
+<h2 align="center">Visit my coolest project</h2>
 <p align="center">
       <a href="https://github.com/StaticFX/STL-To-GIF" target="_blank">
             <img
@@ -12,17 +12,14 @@
                   height="326"
             />      
       </a>
-
 </p>
 
 
-Currently only developing for ZellerFeld
+Currently working for ZellerFeld as full stack developer
 <br />
 Open to new suggestions and corrections
 <br />
 I also work with integrated microcontroller systems such as ESP32 or ARM processors.
-<br />
-Currently learning: [Rust](https://www.rust-lang.org/)
 <br />
 <h3>Im experienced in:</h3>
 <br />
