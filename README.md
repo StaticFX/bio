@@ -108,6 +108,12 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
   <a href="https://vitejs.dev/" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" width="35" height="35"
     /></a>
+  <a href="https://nextjs.org/" target="_blank">
+      <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="35" height="35"
+    /></a>
+  <a href="https://react.dev/" target="_blank">
+      <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="35" height="35"
+    /></a>
 <br />
       
 <p align="center">
